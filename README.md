@@ -6,7 +6,7 @@
 
 此工具可用于快速解密这样的视频，在原视频目录下创建解密后的视频文件。
 
-如 `C:\Users\LC\Downloads\BiliBili\abcd.mp4` -> `C:\Users\LC\Downloads\BiliBili\abcd - decrypted.mp4`
+如 `C:\Users\LC\Downloads\BiliBili\abcd.mp4` -> `C:\Users\LC\Downloads\BiliBili\abcd - Decrypted.mp4`
 
 ### 下载
 1. 在[发行版](https://github.com/lc6464/BiliBiliDecryptor/releases "Releases · lc6464/BiliBiliDecryptor")中下载。
