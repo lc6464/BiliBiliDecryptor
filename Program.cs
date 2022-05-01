@@ -30,7 +30,7 @@ foreach (var one in args) {
 								newFile.Flush();
 								newFile.Dispose();
 								Console.WriteLine("Decrypted successfully!");
-                            } catch (Exception e) {
+														} catch (Exception e) {
 								Console.Error.WriteLine($"Decryption error!");
 								Console.Error.WriteLine(e);
 							}
