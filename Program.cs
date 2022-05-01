@@ -11,7 +11,7 @@ foreach (var one in args) {
 	FileInfo info = new(one);
 	Console.WriteLine(info.FullName);
 	if (info.Exists) {
-		FileInfo newInfo = new(Path.Combine(info.DirectoryName ?? "", $"{ Path.GetFileNameWithoutExtension(info.Name) } - decrypted{ info.Extension }"));
+		FileInfo newInfo = new(Path.Combine(info.DirectoryName ?? "", $"{ Path.GetFileNameWithoutExtension(info.Name) } - Decrypted{ info.Extension }"));
 		if (!newInfo.Exists) {
 			try {
 				FileStream file = info.OpenRead();
