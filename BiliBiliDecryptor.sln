@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliBiliDecryptor", "BiliBiliDecryptor.csproj", "{110E2E9B-79A8-4EDF-AE9D-D937210E637F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{110E2E9B-79A8-4EDF-AE9D-D937210E637F}.Debug|x64.ActiveCfg = Debug|x64
+		{110E2E9B-79A8-4EDF-AE9D-D937210E637F}.Debug|x64.Build.0 = Debug|x64
+		{110E2E9B-79A8-4EDF-AE9D-D937210E637F}.Release|x64.ActiveCfg = Release|x64
+		{110E2E9B-79A8-4EDF-AE9D-D937210E637F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCDA0F1D-BCC4-4460-9E90-6CA5266CD97A}
+	EndGlobalSection
+EndGlobal
